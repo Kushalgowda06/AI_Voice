@@ -1,0 +1,47 @@
+Knowledge AI is a module under Transition AI.
+The landing page shows four panes.
+The first panel shows the knowledge base overview
+across various technologies curated over time,
+showing the number of articles available.
+The second panel shows the quality analytics
+of the knowledge base that identifies articles
+which are duplicate, low score in nature.
+The recent SOP panel shows the articles recently created
+for quick reference.
+The duplicate articles block displays the articles in pairs.
+The users select one of the topics
+from the displayed articles
+and reviews the content across both.
+If the content across both is found the same,
+user clicks Merge Articles.
+The next page further shows the refined content
+of the merged article based on various parameters
+for review by the user.
+Once the article is reviewed, based on the parameters,
+the user then goes ahead and clicks Submit.
+The low scoring articles block displays those articles
+that have been rated lower than three
+based on the quality index.
+The user selects one of the topics
+from the displayed low scored articles
+and reviews the content.
+The user clicks Refine for AI to enhance
+and improve the content quality.
+The refined content is further reviewed by the user.
+As there are further changes needed,
+the user clicks Edit Article and modifies the content.
+The user posts editing the article
+based on the changes modified,
+then goes ahead and clicks Save Changes
+and further submits the article.
+The refined article is successfully saved and is available.
+The fourth panel shows most common issues reported
+where there was no knowledge article available
+to resolve the incident.
+The user selects an incident,
+reviews the content and clicks Create Article.
+The created article is reviewed,
+modifications are done as required and changes are saved.
+The user then reviews the updated article
+and clicks Save Article.
+The article with improved content is now available.
