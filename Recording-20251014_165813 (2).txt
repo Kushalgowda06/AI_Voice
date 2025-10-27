@@ -1,0 +1,41 @@
+Incident AI is a Gen AI solution automating
+executional ticket updates.
+Upon clicking Incident AI, on the left
+is an incident view pane displaying
+the category with incidents assigned to the logged in user.
+The unassigned tickets category
+displays the incidents that have no user or assignment
+group mapped.
+Under the assigned incidents, let's select an incident.
+The view now shows three panes.
+The first panel shows the details
+of the selected incidents, such as state assigned
+to assignment group, shot description, description,
+comments, work notes, and resolution notes.
+The analysis panel shows the related incidents
+and changes to the current incident to be acted upon.
+The tech assist panel shows the summary of the issue
+and generates diagnostic and resolution steps
+based on the knowledge articles related to the issue.
+It also allows users to type in the prompt
+to help act on the incident.
+The user reviews the detailed steps
+and executes them by entering the prompt for execution.
+Tech assist generates a summary
+of the resolution with stepwise analysis and execution.
+In parallel, the comments, work notes on the incident
+panel are updated with the resolution steps captured
+in the tech assist panel.
+The state of the incident is auto updated to resolved,
+thereby ensuring updates to resolution notes
+as well in the incident.
+Upon verification, the user clicks Update Ticket
+to have the updates reflected successfully.
+The next incident is lined up and is displayed
+on the incident panel.
+The user may choose to select the incidents
+from the unassigned category by mapping the assignee name
+and the assigned group.
+Once done, the user goes ahead and clicks Update Ticket
+and ensures that the ticket is assigned
+to him for further action.

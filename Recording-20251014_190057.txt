@@ -1,0 +1,14 @@
+Train AI is a module under transition AI which helps an intelligent knowledge management meeting documentation and personalized agent training for streamlined operations.
+The landing page of the Train AI module shows three blocks. Take a new quiz, resume quiz, and practice scenarios.
+The user clicks take a new quiz upon which there are various technology topics from which user can choose to test his or her skills.
+The user clicks cloud and has the option to choose up to three articles on the topic and clicks start scenario.
+The next page gives a cloud-based text scenario which assesses the user's skill set on the cloud.
+Based on the scenario, the user types in his or her response in the prompt.
+The AI would further give detailed explanation on the answer provided by the user.
+The user can generate more scenario-based questions to practice and improve proficiency by assessing practical situations.
+The next page shows take new quiz option that generates a quiz with a set of multiple choice questions.
+The user selects the answers and clicks save to ensure all the attempted questions are saved with the answers.
+Keeping in mind, there is a quiz ID that is generated at the beginning of the quiz that needs to be made not off.
+In case the user wanting to resume the quiz, he or she has the option to save the quiz.
+The quiz ID that was generated in the beginning of the quiz can be used to resume the quiz using the option resume quiz.
+As the quiz completes with all the multiple choice questions being answered, there is a score that is generated at the end of the quiz.
