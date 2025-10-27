@@ -1,8 +1,0 @@
-Problem AI is an automated problem identification and RCA-DAF creation agent under IT Ops.
-The landing page shows two points where the first panel shows the problem records that have been either recommended, approved, or rejected.
-The recommended records are generated via a configured scheduler function which analyzes the related incidents based on the issue and the configuration item.
-For these problem records recommended by the AI to be approved or rejected, the user selects one of the recommended problem records.
-The right panel shows the details of the problem records such as the shot description, description, and listed related incidents to the problem.
-The user can check the box and choose the related incidents or all that may be required to generate the problem.
-The problem number and the details are verified by navigating to the ITSM tool and the number is input in the search bar.
-The details captured during problem creation such as problem statement are now seen on the problem ticket in the ITSM tool.
