@@ -1,0 +1,12 @@
+# Local artifacts
+.ai_tmp/
+ai_outputs/
+
+# Local tools
+/tools/ffmpeg/
+/tools/ffmpeg-*-static/
+/tools/ffmpeg-static.tar.xz
+
+# Python
+__pycache__/
+*.pyc
